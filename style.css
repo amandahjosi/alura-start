@@ -1,1 +1,16 @@
 
+:rood {
+  --branco-principal: #FFFFFF;
+  --cinza-secundario: #c0c0c0c0;
+  --botão azul: #167BF7;
+  --cor de fundo: #00030c;
+}
+body {
+    beckground-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+}
+
+*{
+   marging: 0;
+  padding: 0;
+}
